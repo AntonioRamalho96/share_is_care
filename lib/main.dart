@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'profile.dart';
+import "food.dart";
 
 void main() {
   runApp(MyApp());
